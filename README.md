@@ -1,5 +1,5 @@
 # [bit.ly/ire15sql1](http://bit.ly/ire15sql1)
-Cheat Sheet for Session 1
+### Cheat Sheet for Session 1
 
 ## SQL queries in plain speak (fill in the blanks)
 `SELECT` means, "Hey database program, show me stuff in ____ fields."  
